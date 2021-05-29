@@ -1,1 +1,1 @@
-# learn-git
+# learn-gits
